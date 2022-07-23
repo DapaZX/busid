@@ -9,6 +9,10 @@ pkg update && pkg upgrade -y
 
 pkg install python
 
-git clone
+git clone https://github.com/DapaZX/busid
 
-Cd Busid
+cd Busid
+
+python busid.py
+
+
