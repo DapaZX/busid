@@ -15,4 +15,14 @@ cd Busid
 
 python busid.py
 
+DOWNLOAD HTTP CANARY
+https://apkcombo.com/id/httpcanary/com.guoshi.httpcanary/
+
+1. AKTIFIN HTTP CANARY NYA
+2. MASUK KE BUSSID
+3. KALIAN DIEM AJA
+4. BUKA HTTP CANARY NYA
+5. TERUS KALIAN SALIN AUTH
+6. TINGGAL MASUKIN AUTH KE TERMUX
+
 
